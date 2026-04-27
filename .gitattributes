@@ -3,3 +3,4 @@ Elliptic[[:space:]]BTC[[:space:]]Dataset/* filter=lfs diff=lfs merge=lfs -text
 Elliptic[[:space:]]Dataset/elliptic_txs_edgelist.csv filter=lfs diff=lfs merge=lfs -text
 Elliptic[[:space:]]Dataset/elliptic_txs_features.csv filter=lfs diff=lfs merge=lfs -text
 Elliptic[[:space:]]Dataset/elliptic_txs_classes.csv filter=lfs diff=lfs merge=lfs -text
+Paysim/paysim.csv filter=lfs diff=lfs merge=lfs -text
